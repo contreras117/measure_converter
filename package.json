@@ -1,0 +1,20 @@
+{
+  "name": "meassure_coverter",
+  "version": "0.1.0",
+  "description": "Converter of measures between decimal system and english system",
+  "main": "converter.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/contreras117/measure_converter.git"
+  },
+  "keywords": [
+    "Measure",
+    "converter",
+    "decimal"
+  ],
+  "author": "Daniel Contreras",
+  "license": "MIT"
+}
